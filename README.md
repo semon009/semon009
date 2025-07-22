@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=500&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Hi+there!;I'm+Semon%2C+a+full-stack+dev+%E2%9A%99%EF%B8%8F" />
+
 👋 Hi, I'm a student and a full-stack developer.  
 <br>🌐 I mostly build websites — some are for learning, others just for fun (or weird ideas).  
 <br>🤖 I also create Discord bots from time to time.  
