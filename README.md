@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=500&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=100&lines=Hi+there!;I'm+Simon%2C+a+full-stack+dev+%E2%98%AD%E2%9C%A9" />
 
+<img src="https://github.com/user-attachments/assets/935d3c89-9518-4252-bd6e-977440e8eb19" width="25%" align="right" />
+
 👋 Hi, I'm a student and a full-stack developer.  
 <br>🌐 I mostly build websites — some are for learning, others just for fun (or weird ideas).  
 <br>🤖 I also create Discord bots from time to time.  
@@ -9,9 +11,6 @@
 <br>🎯 Currently exploring AI, cybersecurity, and game development.  
 <br>💡 Always curious, always learning.
 <br>
-
-<img src="https://github.com/user-attachments/assets/935d3c89-9518-4252-bd6e-977440e8eb19" width="25%" align="right" />
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/whrhwYqmcp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semon009) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Semon009) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Semon_009) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@semon009) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Semongando009@gmail.com) 
