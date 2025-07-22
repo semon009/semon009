@@ -34,5 +34,5 @@
 
 ### 🎧 Spotify Playing
 
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=313kt7mdk5vpcx4oj7sybyrooobi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313kt7mdk5vpcx4oj7sybyrooobi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
